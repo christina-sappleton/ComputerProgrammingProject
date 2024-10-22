@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    background-color: lightblue;
+    padding: 80px;
+}
+
+.anchor1{
+    padding-left: 250px;
+    padding-right: 200px;
+    background-color: lightyellow;
+    color: black;
+}
+
+.anchor2{
+    padding-left: 200px;
+    padding-right: 175px;
+    background-color: lightyellow;
+    color: black;
+}
+
+.anchor3{
+    padding-left: 200px;
+    padding-right: 275px;
+    background-color: lightyellow;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    background-color: lightblue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+#loginform{
+    text-align: center;
+    background-color: lightyellow;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
